@@ -414,7 +414,7 @@ a.nav-link {
   }
 
   .showcase-app{
-      height: 40rem;
+      height: 50rem;
   }
 
   .backoffice-showcase{
@@ -475,6 +475,7 @@ a.nav-link {
     .ui-back{
       position: relative;
       z-index: 10;
+      width: 30rem;
     }
   .donut{
     position: absolute;
